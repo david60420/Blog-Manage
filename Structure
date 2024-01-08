@@ -1,0 +1,16 @@
+/my_blog_project
+|-- app.py
+|-- models.py
+|-- templates/
+|   |-- base.html
+|   |-- home.html
+|   |-- post.html
+|   |-- login.html
+|   |-- register.html
+|   |-- dashboard.html
+|   |-- create_post.html
+|-- static/
+|   |-- style.css
+|-- forms.py
+|-- config.py
+|-- requirements.txt
